@@ -1,0 +1,6 @@
+{
+  "name": "Umberto Styliste",
+  "description": "Local hairdresser and stylist salon in La Chaux-de-Fonds, Switzerland. Dedicated to personalized hairstyling and consultations at Rue Numa-Droz 89.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
